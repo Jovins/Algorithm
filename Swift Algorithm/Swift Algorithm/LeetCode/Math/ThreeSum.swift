@@ -2,7 +2,7 @@
 //  ThreeSum.swift
 //  Swift Algorithm
 //
-//  Created by 黄进文 on 2019/5/17.
+//  Created by Jovins on 2019/5/17.
 //  Copyright © 2019年 Jovins. All rights reserved.
 //
 

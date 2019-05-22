@@ -2,7 +2,7 @@
 //  UIViewController+Extension.swift
 //  Swift Algorithm
 //
-//  Created by 黄进文 on 2019/5/16.
+//  Created by Jovins on 2019/5/16.
 //  Copyright © 2019年 Jovins. All rights reserved.
 //
 
@@ -31,6 +31,14 @@ extension UIViewController {
         let string = "abcdefarbfda"
         let length = LengthOfLongestSubstring()
         print(length.lengthOfLongestSubstring(string))
+        
+        // 中位数
+        //        let nums1 = [-1,1,3,5,7,9]
+        //        let nums2 = [2,4,6,8,10,12,14,16,20,24]
+//        let nums1 = [1, 2]
+//        let nums2 = [3, 4]
+//        let median = MedianSortedArrays()
+//        print(median.findMedianSortedArrays(nums1, nums2))
     }
     
     // MARK: - 搜索

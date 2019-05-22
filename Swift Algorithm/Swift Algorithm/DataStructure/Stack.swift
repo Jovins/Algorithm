@@ -2,7 +2,7 @@
 //  Stack.swift
 //  Swift Algorithm
 //
-//  Created by 黄进文 on 2019/3/20.
+//  Created by Jovins on 2019/3/20.
 //  Copyright © 2019年 Jovins. All rights reserved.
 //
 
