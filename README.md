@@ -36,4 +36,8 @@ Record daily training algorithms and data structures in Swift. If you like it, p
 + [删除有序数组中的重复项 Remove Duplicates](<https://jovins.cn/source/algorithm/26-RemoveDuplicates.html>)
 + [缺失数字 Miss Number](<http://jovins.cn/source/algorithm/268-Miss-Number.html>)
 + [分糖果 Distribute Candies](<http://jovins.cn/source/algorithm/575-DistributeCandies.html>)
++ [移除元素 RemoveElement](<https://jovins.cn/source/algorithm/27-RemoveElement.html>)
++ [盛最多水的容器 MaxArea](<https://jovins.cn/source/algorithm/11-MaxArea.html>)
++ [最长公共前缀 LongestCommonPrefix](<https://jovins.cn/source/algorithm/14-LongestCommonPrefix.html>)
++ [接雨水 TrapRainWater](<https://jovins.cn/source/algorithm/42-TrapRainWater.html>)
 
