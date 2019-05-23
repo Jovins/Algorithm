@@ -2,7 +2,7 @@
 
 ![Algorithm](./logo.png?style=centerme)
 
-Record daily training algorithms and data structures in Swift. If you like it, please give me star❤️, thanks!
+Record daily training algorithms and data structures by Swift. If you like them, then give me a star❤️, thanks!
 
 ## Data Structures
 
