@@ -33,8 +33,13 @@ class ViewController: UIViewController {
 //        let remove = RemoveElement()
 //        print(remove.removeElement(&array, 2))
         
-        // 高阶函数使用
+//        let strings = "abcdcba"
+//        let longP = LongestPalindrome()
+//        print(longP.longestPalindrome(strings))
         
+        let strings = "Hello World "
+        let word = LengthLastWord()
+        print(word.lengthOfLastWord(strings))
     }
 }
 

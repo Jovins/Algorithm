@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C0E64EF229C0BF600A3E1E7 /* LengthLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C0E64EE229C0BF600A3E1E7 /* LengthLastWord.swift */; };
 		6C248D9B224B163600EB36EA /* ArrayExtensiongs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C248D9A224B163600EB36EA /* ArrayExtensiongs.swift */; };
 		6C248D9D224B568D00EB36EA /* Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C248D9C224B568D00EB36EA /* Words.swift */; };
 		6C4AEAE8228D033C006A8E08 /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4AEAE7228D033C006A8E08 /* UIViewController+Extension.swift */; };
@@ -30,6 +31,8 @@
 		6C4AEB172296B02B006A8E08 /* MaxArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4AEB162296B02B006A8E08 /* MaxArea.swift */; };
 		6C4AEB192296BBC2006A8E08 /* LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4AEB182296BBC2006A8E08 /* LongestCommonPrefix.swift */; };
 		6C4AEB1D22972033006A8E08 /* RemoveElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4AEB1C22972033006A8E08 /* RemoveElement.swift */; };
+		6C4AEB222297E27D006A8E08 /* SearchInsert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4AEB212297E27D006A8E08 /* SearchInsert.swift */; };
+		6C4AEB26229B035B006A8E08 /* LongestPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4AEB25229B035B006A8E08 /* LongestPalindrome.swift */; };
 		6CDA535F22409CE100026513 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDA535E22409CE100026513 /* AppDelegate.swift */; };
 		6CDA536122409CE100026513 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDA536022409CE100026513 /* ViewController.swift */; };
 		6CDA536422409CE100026513 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CDA536222409CE100026513 /* Main.storyboard */; };
@@ -45,6 +48,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C0E64EE229C0BF600A3E1E7 /* LengthLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthLastWord.swift; sourceTree = "<group>"; };
 		6C248D9A224B163600EB36EA /* ArrayExtensiongs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayExtensiongs.swift; sourceTree = "<group>"; };
 		6C248D9C224B568D00EB36EA /* Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Words.swift; sourceTree = "<group>"; };
 		6C4AEAE7228D033C006A8E08 /* UIViewController+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extension.swift"; sourceTree = "<group>"; };
@@ -68,6 +72,8 @@
 		6C4AEB162296B02B006A8E08 /* MaxArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxArea.swift; sourceTree = "<group>"; };
 		6C4AEB182296BBC2006A8E08 /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
 		6C4AEB1C22972033006A8E08 /* RemoveElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveElement.swift; sourceTree = "<group>"; };
+		6C4AEB212297E27D006A8E08 /* SearchInsert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsert.swift; sourceTree = "<group>"; };
+		6C4AEB25229B035B006A8E08 /* LongestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindrome.swift; sourceTree = "<group>"; };
 		6CDA535B22409CE100026513 /* Swift Algorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift Algorithm.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CDA535E22409CE100026513 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6CDA536022409CE100026513 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -115,6 +121,7 @@
 		6C4AEAE9228D035C006A8E08 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				6C4AEB1E2297E250006A8E08 /* Search */,
 				6C4AEB0522947116006A8E08 /* Array */,
 				6C4AEAFC228E5C2D006A8E08 /* Stack */,
 				6C4AEAF7228DB57C006A8E08 /* LinkList */,
@@ -147,6 +154,8 @@
 				6C4AEAF2228D6307006A8E08 /* LengthOfLongestSubstring.swift */,
 				6C4AEB10229548AD006A8E08 /* ZConvert.swift */,
 				6C4AEB182296BBC2006A8E08 /* LongestCommonPrefix.swift */,
+				6C4AEB25229B035B006A8E08 /* LongestPalindrome.swift */,
+				6C0E64EE229C0BF600A3E1E7 /* LengthLastWord.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -177,6 +186,14 @@
 				6C4AEB1C22972033006A8E08 /* RemoveElement.swift */,
 			);
 			path = Array;
+			sourceTree = "<group>";
+		};
+		6C4AEB1E2297E250006A8E08 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				6C4AEB212297E27D006A8E08 /* SearchInsert.swift */,
+			);
+			path = Search;
 			sourceTree = "<group>";
 		};
 		6CDA535222409CE100026513 = {
@@ -294,6 +311,8 @@
 				6CDA536122409CE100026513 /* ViewController.swift in Sources */,
 				6C4AEB02228E77A1006A8E08 /* MissingNumber.swift in Sources */,
 				6C4AEB11229548AD006A8E08 /* ZConvert.swift in Sources */,
+				6C0E64EF229C0BF600A3E1E7 /* LengthLastWord.swift in Sources */,
+				6C4AEB26229B035B006A8E08 /* LongestPalindrome.swift in Sources */,
 				6CDA535F22409CE100026513 /* AppDelegate.swift in Sources */,
 				6CDA53792244C4FB00026513 /* Sort.swift in Sources */,
 				6C4AEB0F229518F6006A8E08 /* RemoveDuplicatesFromSortedArray.swift in Sources */,
@@ -305,6 +324,7 @@
 				6CDA537B2244E05E00026513 /* Search.swift in Sources */,
 				6C248D9D224B568D00EB36EA /* Words.swift in Sources */,
 				6C4AEAF9228DB5A5006A8E08 /* SwapNodesInPairs.swift in Sources */,
+				6C4AEB222297E27D006A8E08 /* SearchInsert.swift in Sources */,
 				6C4AEB00228E6263006A8E08 /* ReverseInteger.swift in Sources */,
 				6CDA53712242074300026513 /* List.swift in Sources */,
 				6C4AEAF0228D3B58006A8E08 /* Triangle.swift in Sources */,

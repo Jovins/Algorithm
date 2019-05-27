@@ -40,4 +40,5 @@ Record daily training algorithms and data structures by Swift. If you like them,
 + [盛最多水的容器 MaxArea](<https://jovins.cn/source/algorithm/11-MaxArea.html>)
 + [最长公共前缀 LongestCommonPrefix](<https://jovins.cn/source/algorithm/14-LongestCommonPrefix.html>)
 + [接雨水 TrapRainWater](<https://jovins.cn/source/algorithm/42-TrapRainWater.html>)
-
++ [搜索插入位置 SearchInsertPosition](<https://jovins.cn/source/algorithm/35-SearchInsertPosition.html>)
++ [最后一个单词的长度 LengthOfLastWord](<https://jovins.cn/source/algorithm/58-LengthOfLastWord.html>)
