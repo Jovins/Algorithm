@@ -37,9 +37,12 @@ class ViewController: UIViewController {
 //        let longP = LongestPalindrome()
 //        print(longP.longestPalindrome(strings))
         
-        let strings = "Hello World "
-        let word = LengthLastWord()
-        print(word.lengthOfLastWord(strings))
+//        let strings = "Hello World "
+//        let word = LengthLastWord()
+//        print(word.lengthOfLastWord(strings))
+        
+        let say = CountAndSay()
+        print(say.countAndSay(8))
     }
 }
 

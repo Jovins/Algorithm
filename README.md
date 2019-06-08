@@ -42,3 +42,4 @@ Record daily training algorithms and data structures by Swift. If you like them,
 + [接雨水 TrapRainWater](<https://jovins.cn/source/algorithm/42-TrapRainWater.html>)
 + [搜索插入位置 SearchInsertPosition](<https://jovins.cn/source/algorithm/35-SearchInsertPosition.html>)
 + [最后一个单词的长度 LengthOfLastWord](<https://jovins.cn/source/algorithm/58-LengthOfLastWord.html>)
++ [报数 CountToSay](<https://jovins.cn/source/algorithm/38-CountToSay.html>)
